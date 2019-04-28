@@ -1,6 +1,6 @@
 token= NTYzNzE3NzMzNTM1OTczMzc2.XKdZFg.v-aveixOhO3jL5QYp1FxlYLkwGc
 owner= 526947416658935810 
-prefix= 1
-game= 1help | War
+prefix= A
+game= Aplay.anas
 stayinchannel=true
 songinstatus=false
